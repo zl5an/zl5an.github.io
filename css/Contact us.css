@@ -1,0 +1,8 @@
+ 
+ 
+.overlay{ background: url("../img/slide2.jpg")no-repeat center center fixed  !important}
+.textarea.form-control{height: 140px!important}
+.form-control{border-radius: 16px;border:2px solid #fff}
+.btn-group-lg>.btn, .btn-lg{border-radius: 20px}
+#footer{padding:10px;background-color: #08526D;color: #fff !important;line-height: 61px;height:70px;font-size: 30px}
+body{ overflow:hidden;}
