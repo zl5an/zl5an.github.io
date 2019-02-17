@@ -1,0 +1,33 @@
+*{color:  #FFE484  ;}
+
+.bg{background: url(../img/slide2.jpg) no-repeat ; width: 100%; margin-top: -10px; margin-bottom: 0}
+.form-container{border-radius:  20px;border: 0px solid #fff;padding: 5px 10px; margin-top: 15vh;
+-webkit-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+}
+
+
+ #logo
+{    
+    height: 61px;
+    margin-top: -11px;
+    border-radius: 12px;
+    width: 60px;
+    margin-right: 5px;
+}
+
+h1{ color: #FFE484  ;
+    display: inline}
+ .pas  a:hover{color: rgba(0,0,0,0.3)  !important}
+ .pas a {text-decoration: none}
+  .for  a:hover{color:rgba(0,0,0,0.3) !important}
+ .for a {text-decoration: none}
+ 
+ .btn-warning{background: #FFE484 ; border-radius: 50px}
+ .btn-warning a:hover{background: #FFE484!important}
+ /*jjkhjh*/
+ 				.btn-danger {
+					border-radius: 100px;
+					}
+  

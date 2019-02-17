@@ -29,3 +29,26 @@ $(window).load(function () {
 });
 
 
+
+//scroll to top
+
+
+var scrollButton = $("#scroll-top");
+
+$(window).scroll(function () {
+    "use strict";
+    if ($(this).scrollTop() >= 800) {
+        scrollButton.show();
+    } else {scrollButton.hide(); }
+    
+
+});
+
+
+ 
+scrollButton.click(function () {
+    "use strict";
+
+    $("html,body").animate({scrollTop: 0 }, 1000);
+});
+

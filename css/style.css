@@ -50,7 +50,7 @@
 	
 }
 
-
+nav.black ul{background: #000;}
  /***/
  
  
@@ -189,7 +189,7 @@ width:
 		.list-unstyled	{	 margin-bottom: 0}
 			footer a{text-decoration: none}
 			footer{background-color: #333;color: #feb236; padding-top: 20px;padding-bottom: 20px}
-footer a:hover{color:  #FFE484  ; text-decoration: none;  }
+footer a:hover{color:  #2A2754  ; text-decoration: none;  }
 footer  .social-list {overflow: hidden}
 footer  img {;float:left;padding: 5px 0 }
 footer .social-list li{overflow: hidden;margin: 0 0 0 0 ; padding: 3px}
@@ -207,10 +207,19 @@ footer .mt-3 .mb-4 .foot{margin-left: 30px}
 
 /*start scroll*/
 #scroll-top{width: 50px;
-height: 40px;padding:5px 8px;color:#ddd;background: #272727;text-align: center;position: fixed;right: 15px;bottom: 10px;z-index: 999;display: none}
+height: 40px;
+padding:5px 8px;
+color:#ddd;
+background: #272727;
+text-align: center;
+position: fixed;
+right: 15px;
+bottom: 10px;
+z-index: 9999!important;
+display: none}
 #scroll-top:hover{background-color: #444}
  #app:hover{opacity: .8}
-/*start scroll*/
+
 /*end scroll*/
 
 
@@ -266,6 +275,7 @@ h1{font: 900!important}
 }
 /*************************end loading section**********************/
 
+#ascrail2000{overflow: hidden!important}
 
 
 
